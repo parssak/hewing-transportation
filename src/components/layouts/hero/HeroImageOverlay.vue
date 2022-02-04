@@ -7,7 +7,7 @@
         class="w-full h-full object-cover"
       />
       <div
-        class="absolute inset-0 bg-accent-dark opacity-20 mix-blend-multiply"
+        class="absolute inset-0 bg-accent-dark opacity-60 mix-blend-multiply"
         aria-hidden="true"
       />
     </div>

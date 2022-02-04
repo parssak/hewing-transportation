@@ -12,12 +12,12 @@
       >
         <div class="flex justify-start lg:w-0 flex-1">
           <router-link to="/">
-            <span class="sr-only">Company Name</span>
+            <span class="sr-only">Hewing Transportation Inc.</span>
             <div class="flex items-center">
               <img
                 class="h-9 w-auto"
                 src="@/assets/logo.svg"
-                alt="Company Name"
+                alt="Hewing Transportation Inc."
               />
             </div>
           </router-link>
@@ -90,7 +90,7 @@
                 <img
                   class="h-5 w-auto"
                   src="@/assets/logo.svg"
-                  alt="Company name"
+                  alt="Hewing Transportation Inc."
                 />
               </router-link>
               <div class="-mr-2">
