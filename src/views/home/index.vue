@@ -1,15 +1,14 @@
 <template>
   <!-- HeroImageOverlay -->
   <HeroImageOverlay>
-    <h1 className="text-white mt-16 md:mt-24">
-      Hewings <br />Transportation Inc.
-    </h1>
-    <p className="text-gray-100 max-w-2xl mt-12 text-xl">
-      Hewings Transportation Inc is a family-owned company that has been serving
-      customers in Southern Ontario for over 25 years. We are based in Branford,
-      Ontario, and operate of a custom-built 10,000-sq ft office and warehouse
-      facility with an-8,100-sq-ft service building on 6 acres.
+    <h1 className="text-white mt-16 md:mt-24">Hewings <br />Transportation Inc.</h1>
+    <p className="text-white max-w-2xl mt-12 text-xl">
+      Hewings Transportation Inc is a family-owned company that has been serving customers in
+      Southern Ontario for over 25 years. We are based in Branford, Ontario, and operate of a
+      custom-built 10,000-sq ft office and warehouse facility with an 8,100 sq-ft service building
+      on 6 acres.
     </p>
+    <router-link to="/contact" className="btn btn-xl mt-6">Get in Touch</router-link>
   </HeroImageOverlay>
 
   <!-- Split -->
@@ -29,6 +28,7 @@
     title="Our Services"
     description="Our service also includes warehousing, freight brokerage, LTL and Truckload service to points in southern Ontario. We believe in catering to our customers needs and are not limited to definitive traffic lanes. Our professional and courteous staff and team of skilled and reliable drivers have made us the winning choice among many transportation companies offering similar services."
     :flip="true"
+    class="bg-accent-lightest"
   >
     <img
       className="w-full"

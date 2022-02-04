@@ -6,10 +6,7 @@
         alt=""
         class="w-full h-full object-cover"
       />
-      <div
-        class="absolute inset-0 bg-accent-dark opacity-60 mix-blend-multiply"
-        aria-hidden="true"
-      />
+      <div class="absolute inset-0 bg-accent bg-opacity-80 mix-blend-multiply" aria-hidden="true" />
     </div>
     <Container full>
       <slot></slot>

@@ -31,7 +31,9 @@
       <li>Proven safety record with a CVOR safety rating of well below 10% violation threshold</li>
     </ul>
   </Container>
-  <FeatureList />
+
+  <FeatureList class="bg-gray-50" />
+
   <SimpleBrandCTA />
 </template>
 
