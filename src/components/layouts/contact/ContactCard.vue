@@ -288,20 +288,6 @@
                 </div>
               </div>
               <div class="sm:col-span-2">
-                <label
-                  for="subject"
-                  class="block text-sm font-medium text-gray-900"
-                  >Practice Area</label
-                >
-                <div class="mt-1">
-                  <select id="choice" name="choice" class="mt-1">
-                    <option>Practice 1</option>
-                    <option selected="">Practice 2</option>
-                    <option>Practice 3</option>
-                  </select>
-                </div>
-              </div>
-              <div class="sm:col-span-2">
                 <div class="flex justify-between">
                   <label
                     for="message"
