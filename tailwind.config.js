@@ -16,7 +16,7 @@ module.exports = {
           hover: "#01b3d2",
           light: "#4fdbf5",
           light_hover: "#94e8f7",
-          lightest: "#f7feff",
+          lightest: "#e6fcff",
         },
       },
     },
