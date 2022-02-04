@@ -9,6 +9,7 @@
       reputation of being specialists in the movement of freight to/from the Great Lakes, we also
       provide transportation services as follows:
     </p>
+    <br />
     <ul>
       <li>All points within the Golden Horseshoe</li>
       <li>All points from GTA to London Corridor and return</li>
@@ -31,9 +32,12 @@
     </ul>
   </Container>
   <FeatureList />
+  <SimpleBrandCTA />
 </template>
 
 <script>
+import SimpleBrandCTA from "../../components/layouts/cta/SimpleBrandCTA.vue";
+import Container from "../../components/layouts/Container.vue";
 import Header from "@/components/base/Header";
 import FeatureList from "@/components/layouts/features/FeatureList.vue";
 
@@ -41,6 +45,8 @@ export default {
   components: {
     Header,
     FeatureList,
+    Container,
+    SimpleBrandCTA,
   },
 };
 </script>
