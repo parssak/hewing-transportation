@@ -24,7 +24,6 @@
       pristine condition.
     </p>
   </Container>
-  <!-- <FeatureGrid /> -->
 </template>
 
 <script>
