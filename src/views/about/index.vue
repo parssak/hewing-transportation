@@ -8,6 +8,7 @@
       trailer repairs.
 
       <br />
+      <br />
 
       Our service includes LTL and truckload service to points in Southern Ontario. While we are not
       limited to definitive traffic lanes, we have gained the reputation of being Midwest and Great
